@@ -1,7 +1,5 @@
 # OMwS_AppScript
 
-# Daily Expenses Forecast 
-
 This project is a Google Apps Script that showcases the daily small spendings of a single person, such as coffee or conveyance expenses, for one week, and forecasts their spending for the next week based on the `Forecast.lin` formula and. 
 
 ## Usage
